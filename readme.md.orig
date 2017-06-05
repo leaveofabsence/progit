@@ -3,6 +3,8 @@ test line
 another change
 bool
 poop
+<<<<<<< HEAD
 master branch change
+=======
 ddd
-poo
+>>>>>>> testing
